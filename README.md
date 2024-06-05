@@ -35,6 +35,6 @@ The EDA of Black Friday sales data provides valuable insights into customer beha
 
 ## Let's Connect ©
 
-Project Completed by [Tajamul Khan](https://github.com/tajamulk2)
-For More Projects like this, check out my [GitHub](https://github.com/tajamulk2)
-Let's connect over [LinkedIn](https://www.linkedin.com/in/tajamulk2/)
+Project Completed by [Prajakta Gaikwad](https://github.com/Gaikwadp629)
+Let's connect over [LinkedIn](https://www.linkedin.com/in/prajakta-gaikwad-33b678198/)
+
