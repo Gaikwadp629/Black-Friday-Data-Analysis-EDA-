@@ -1,26 +1,40 @@
-# Diabetes Prediction using Classification and Boosting Algorithm
+# Black Friday Data Analysis Project
 
-###
+## Project Overview
 
-Goal of this notebook is to classify various conditions of Diabetes.
+Performing Exploratory Data Analysis (EDA) on Black Friday sales data using Python to uncover insights and trends.
 
 ## Tech Stack
 
- **Language:** python
+**Language:** Python
 
- **Libraries:** numpy, pandas, seaborn, matplotlib, statistics, math, scipy, sklearn
+**Libraries:** numpy, pandas, seaborn, matplotlib, statistics, scipy, sklearn
 
 ## Appendix
-* Exploratory Data Analysis
-* Classification Models Used: 
-* LogisticRegression, 
-* DecisionTreeClassifier, 
-* RandomForestClassifier,
-* XG Boost
 
+### Data Sources
+
+- Black Friday Sales Data
+
+### Metrics and Analysis
+
+- **Key Metrics:** Total Sales, Sales by Age/Gender/Product Category, Purchase Patterns
+- **Data Visualization:** Histograms, Box Plots, Bar Charts, Heat Maps
+- **Advanced Analysis:** Customer Segmentation, Correlation Analysis, Purchase Behavior
+
+## Key Findings and Insights
+
+- **Top Selling Products and Categories**
+- **Customer Demographics and Purchase Patterns**
+- **Seasonal Trends and Sales Peaks**
+- **Actionable Recommendations:** Targeted Marketing Strategies, Inventory Optimization
+
+## Conclusion
+
+The EDA of Black Friday sales data provides valuable insights into customer behavior and sales trends, facilitating data-driven decisions for optimizing marketing and inventory strategies using Python.
 
 ## Let's Connect ©
 
 Project Completed by [Tajamul Khan](https://github.com/tajamulk2)
-For More Projects like this. Check out my [GitHub](https://github.com/tajamulk2)
-Let's connect over [Linked In](https://www.linkedin.com/in/tajamulk2/)
+For More Projects like this, check out my [GitHub](https://github.com/tajamulk2)
+Let's connect over [LinkedIn](https://www.linkedin.com/in/tajamulk2/)
