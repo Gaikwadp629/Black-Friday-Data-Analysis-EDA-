@@ -8,7 +8,7 @@ Performing Exploratory Data Analysis (EDA) on Black Friday sales data using Pyth
 
 **Language:** Python
 
-**Libraries:** numpy, pandas, seaborn, matplotlib, statistics, scipy, sklearn
+**Libraries:** numpy, pandas, seaborn, matplotlib, statistics
 
 ## Appendix
 
